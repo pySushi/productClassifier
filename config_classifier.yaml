@@ -1,0 +1,4 @@
+debug: true
+testing: false
+corpus: /path/to/category_tagging.json
+model: /path/to/model.pickle
